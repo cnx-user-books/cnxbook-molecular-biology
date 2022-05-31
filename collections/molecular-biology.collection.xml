@@ -1,0 +1,54 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11636</md:content-id>
+  <md:title>Molecular Biology</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>173c732f-ede6-4f88-b265-220208d31488</md:uuid>
+<md:slug>molecular-biology</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m49481"/>
+        
+      
+    
+    
+      <col:module document="m49482"/>
+        
+      
+    
+    
+      <col:module document="m49479"/>
+        
+      
+    
+    
+      <col:module document="m49484"/>
+        
+      
+    
+    
+      <col:module document="m49485"/>
+        
+      
+    
+    
+      <col:module document="m49480"/>
+        
+      
+    
+  </col:content>
+</col:collection>
